@@ -17,14 +17,6 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
-
-- 🔭 Sedang mengerjakan: **[nama project / perusahaan]**
-- 🌱 Sedang belajar: **[teknologi yang sedang dipelajari]**
-- 💬 Tanya saya soal: **Laravel, API Design, Database, Web Development**
-- 📫 Hubungi saya: **rifkalfirdaus@gmail.com**
-- ⚡ Fun fact: **[isi sendiri]**
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -50,20 +42,7 @@
 
 <br/>
 
-<img src="https://ghchart.rshah.org/216e39/RifkalFirdaus123" alt="Contribution Calendar" width="90%" />
-
-</div>
-
-## 📌 Project Pilihan
-
-<div align="center">
-
-<a href="https://github.com/RifkalFirdaus123/notch-island">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=RifkalFirdaus123&repo=notch-island&theme=tokyonight&hide_border=true" alt="Project 1" />
-</a>
-<a href="https://github.com/RifkalFirdaus123/web-ammar">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=RifkalFirdaus123&repo=web-ammar&theme=tokyonight&hide_border=true" alt="Project 2" />
-</a>
+<img src="https://raw.githubusercontent.com/RifkalFirdaus123/RifkalFirdaus123/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" width="100%" />
 
 </div>
 

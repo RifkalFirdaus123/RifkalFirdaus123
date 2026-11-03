@@ -22,7 +22,7 @@
 - 🔭 Sedang mengerjakan: **[nama project / perusahaan]**
 - 🌱 Sedang belajar: **[teknologi yang sedang dipelajari]**
 - 💬 Tanya saya soal: **Laravel, API Design, Database, Web Development**
-- 📫 Hubungi saya: **rifkal@hotama.co.id**
+- 📫 Hubungi saya: **rifkalfirdaus@gmail.com**
 - ⚡ Fun fact: **[isi sendiri]**
 
 ## 🛠️ Tech Stack
@@ -34,11 +34,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -46,12 +45,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RifkalFirdaus123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkalFirdaus123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=RifkalFirdaus123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RifkalFirdaus123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=RifkalFirdaus123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://ghchart.rshah.org/216e39/RifkalFirdaus123" alt="Contribution Calendar" width="90%" />
 
 </div>
 
@@ -59,20 +58,12 @@
 
 <div align="center">
 
-<a href="https://github.com/RifkalFirdaus123/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RifkalFirdaus123&repo=REPO-1&theme=tokyonight&hide_border=true" alt="Project 1" />
+<a href="https://github.com/RifkalFirdaus123/notch-island">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=RifkalFirdaus123&repo=notch-island&theme=tokyonight&hide_border=true" alt="Project 1" />
 </a>
-<a href="https://github.com/RifkalFirdaus123/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RifkalFirdaus123&repo=REPO-2&theme=tokyonight&hide_border=true" alt="Project 2" />
+<a href="https://github.com/RifkalFirdaus123/web-ammar">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=RifkalFirdaus123&repo=web-ammar&theme=tokyonight&hide_border=true" alt="Project 2" />
 </a>
-
-</div>
-
-## 🏆 Aktivitas Kontribusi
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RifkalFirdaus123&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
@@ -80,9 +71,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RifkalFirdaus123)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkal@hotama.co.id)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/RifkalFirdaus123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rifkal-firdaus)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkalfirdaus@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rifkalfrds_)
 
 </div>
 

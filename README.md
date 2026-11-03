@@ -33,19 +33,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=RifkalFirdaus123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RifkalFirdaus123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/RifkalFirdaus123/RifkalFirdaus123/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" width="100%" />
-
-</div>
-
 ## 🤝 Mari Terhubung
 
 <div align="center">
